@@ -1,6 +1,6 @@
 # ☒CHIP CC01
 <img src="extras/CC01 V1.0.0.JPG" width="35%" height="auto" align="right">
-Uno Core (ATmega328P).
+Arduino Pro/Pro Mini (ATmega328P).
 
 This module can be purchased on [Xinabox CC](https://xinabox.cc/products/CC01/).
 
